@@ -1,8 +1,8 @@
 {
-  "name": "bootstrap-tokenfieldy-2",
+  "name": "bootstrap-tokenfieldy-5",
   "title": "Bootstrap Tokenfield",
   "description": "Advanced tagging/tokenizing plugin for input fields with a focus on keyboard and copy-paste support.",
-  "version": "0.12.3",
+  "version": "0.12.4",
   "main": "dist/bootstrap-tokenfield.js",
   "homepage": "http://sliptree.github.io/bootstrap-tokenfield/",
   "author": {
@@ -16,7 +16,6 @@
   "keywords": [
     "jquery",
     "javascript",
-    "bootstrap",
     "tokenfield",
     "tags",
     "token",

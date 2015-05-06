@@ -1,7 +1,7 @@
 {
-  "name": "bootstrap-tokenfield",
+  "name": "bootstrap-tokenfield-5",
   "description": "Advanced tagging/tokenizing plugin for input fields with a focus on keyboard and copy-paste support.",
-  "version": "0.12.1",
+  "version": "0.12.4",
   "authors": [
     {
       "name": "ragulka",
@@ -20,7 +20,6 @@
   "keywords": [
     "jquery",
     "javascript",
-    "bootstrap",
     "tokenfield",
     "tags",
     "token",
